@@ -4,4 +4,4 @@ Also view on <a href="http://nbviewer.jupyter.org/github/kriete/bokehAutomaticYR
 ### HTML output:
 To go directly to the html output:<br>
 <a href="http://htmlpreview.github.io/?https://github.com/kriete/bokehAutomaticYRangeUpdate/blob/master/range_update.html">Rendered HTML</a><br>
-<a href="https://raw.githubusercontent.com/kriete/bokehAutomaticYRangeUpdate/blob/master/range_update.html">Raw HTML</a>
+<a href="https://raw.githubusercontent.com/kriete/bokehAutomaticYRangeUpdate/range_update.html">Raw HTML</a>
